@@ -10,13 +10,14 @@ This project focused on designing and developing a dynamic, insights-driven Pizz
 Data Preparation:
 Utilized SQL queries to clean, transform, and aggregate raw transactional data. Handled missing values, optimized queries, and prepared relational datasets for Power BI using Joins, CTEs, aggregation functions, and CASE statements.
 
-Data Modeling:
+# Data Modeling:
 Created a star schema in Power BI with fact and dimension tables to support slicing and drilling into data efficiently. Used data types, relationships, and calculated columns/measures using DAX.
 
-Visualization & Insights:
+# Visualization & Insights:
 Designed an interactive Power BI dashboard with user-friendly visuals including:
 
-KPI Cards for Total Revenue (₹817.86K), Total Orders (21,350), Pizzas Sold (49,574), and Average Order Value (₹38.31).
+# KPI Cards 
+Total Revenue (₹817.86K), Total Orders (21,350), Pizzas Sold (49,574), and Average Order Value (₹38.31).
 
 Trend Charts to show daily and monthly patterns in order volume.
 
@@ -24,17 +25,18 @@ Donut Charts to illustrate sales distribution by pizza category (Classic, Suprem
 
 Bar Charts highlighting best-selling categories.
 
-Slicer/Filter Panel:
+# Slicer/Filter Panel:
+
 Implemented interactive slicers to filter visuals by pizza category and date range.
 
-📈 Key Business Insights Extracted:
-Order Trends:
+# 📈 Key Business Insights Extracted:
+
 
 Highest number of orders on weekends, especially Friday, Thursday, and Saturday.
 
 July and January had the highest monthly order volume.
 
-Sales Performance:
+# Sales Performance:
 
 Classic pizza category generated the highest revenue and most orders (14,888 units).
 

@@ -1,7 +1,7 @@
 # Pizza-Sale-Analysis
 
-Duration: 1 Year Data (2015)
-Tools & Technologies Used: Power BI, SQL (PostgreSQL), DAX, Data Modelling
+Duration: 1 Year Data (2015).
+Tools & Technologies Used: Power BI, SQL (PostgreSQL), DAX, Data Modelling.
 
 # 📌 Project Overview:
 This project focused on designing and developing a dynamic, insights-driven Pizza Sales Dashboard to analyze year-long transactional data for a pizza business. The goal was to help stakeholders monitor performance, understand customer buying behavior, and identify sales trends across different pizza categories and sizes.

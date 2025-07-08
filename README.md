@@ -44,7 +44,7 @@ Large-sized pizzas drove the highest revenue share (45.89% of total sales).
 
 Average pizzas per order: 2.32.
 
-✅ Project Outcome:
+# ✅ Project Outcome:
 This dashboard offered a comprehensive and interactive view of the business's annual performance, helping stakeholders:
 
 Identify top-performing products and sales periods

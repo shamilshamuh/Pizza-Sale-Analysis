@@ -7,7 +7,8 @@ Tools & Technologies Used: Power BI, SQL (PostgreSQL), DAX, Data Modelling.
 # 📌 Project Overview:
 This project focused on designing and developing a dynamic, insights-driven Pizza Sales Dashboard to analyze year-long transactional data for a pizza business. The goal was to help stakeholders monitor performance, understand customer buying behavior, and identify sales trends across different pizza categories and sizes.
 
-# Dataset
+# Dataset   
+
 ![dataset](https://github.com/shamilshamuh/Pizza-Sale-Analysis/blob/main/pizza_sales.csv)
 
 # ⚙️ My Responsibilities & Workflow:
@@ -62,5 +63,4 @@ Make data-driven decisions to improve revenue and operational efficiency
 
 # Report 
 ![Page1](https://github.com/shamilshamuh/Pizza-Sale-Analysis/blob/main/Pizza%20Sale%20Page%201%20BI%20.png)  
-
 ![Page2](https://github.com/shamilshamuh/Pizza-Sale-Analysis/blob/main/Pizza%20sale%20BI%20page%202.png)

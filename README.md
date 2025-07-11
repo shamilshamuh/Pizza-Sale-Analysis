@@ -60,3 +60,5 @@ Understand customer preferences by category and size
 
 Make data-driven decisions to improve revenue and operational efficiency
 
+# Report 
+![Page1](https://github.com/shamilshamuh/Pizza-Sale-Analysis/blob/main/Pizza%20Sale%20Page%201%20BI%20.png)

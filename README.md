@@ -1,5 +1,6 @@
 # Pizza-Sale-Analysis
-![Pizza]()
+![Pizza](https://github.com/shamilshamuh/Pizza-Sale-Analysis/blob/main/Pizza.jpg)  
+
 Duration: 1 Year Data (2015).
 Tools & Technologies Used: Power BI, SQL (PostgreSQL), DAX, Data Modelling.
 

@@ -1,5 +1,5 @@
 # Pizza-Sale-Analysis
-
+![Pizza]()
 Duration: 1 Year Data (2015).
 Tools & Technologies Used: Power BI, SQL (PostgreSQL), DAX, Data Modelling.
 
